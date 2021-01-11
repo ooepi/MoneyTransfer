@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\obj\Debug\MoneyTransfer.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\obj\Debug\MoneyTransfer.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\bin\Debug\MoneyTransfer.exe.config
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\bin\Debug\MoneyTransfer.exe
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\bin\Debug\MoneyTransfer.pdb
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\obj\Debug\MoneyTransfer.exe
+C:\Users\rober\OneDrive\projects\cs\MoneyTransfer\MoneyTransfer\obj\Debug\MoneyTransfer.pdb
